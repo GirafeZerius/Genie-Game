@@ -17,8 +17,8 @@ Vous lancez est vous installez.
 
 Okais, est pour la dernière étape, il vous faudra ceci:
 
-https://tinyurl.com/yead8vh4
 
+](https://tinyurl.com/mryyhjdn)
 
 Surtout, dans le fichiez "Genie.rar" que vous allez avoir, ne suprimmez pas le fichier What.txt (Pour cela qui serais perdu, Genie.rar est téléchargé quand tu lance est install le "Windows Genie Downloader."
 
