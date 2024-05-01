@@ -20,7 +20,7 @@ Okais, est pour la dernière étape, il vous faudra ceci:
 https://tinyurl.com/yead8vh4
 
 
-Surtout, dans le fichiez "Genie.rar" que vous allez avoir, ne suprimmez pas le fichier What.txt
+Surtout, dans le fichiez "Genie.rar" que vous allez avoir, ne suprimmez pas le fichier What.txt (Pour cela qui serais perdu, Genie.rar est téléchargé quand tu lance est install le "Windows Genie Downloader."
 
 ![image](https://github.com/GirafeZerius/Genie-Game/assets/118310578/404ce111-fe16-484b-8495-74373b41c9cf)
 
@@ -57,7 +57,7 @@ Ok, for the last step, you will need this:
 https://tinyurl.com/yead8vh4
 
 
-Above all, in the "Genie.rar" file that you will have, do not delete the What.txt file
+Above all, in the "Genie.rar" file that you will have, do not delete the What.txt file (For those who are confused, you will get the Genie.rar file when you run and click on the button install on the Genie Downloader file.)
 
 ![image](https://github.com/GirafeZerius/Genie-Game/assets/118310578/404ce111-fe16-484b-8495-74373b41c9cf)
 
